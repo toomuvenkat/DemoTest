@@ -1,0 +1,8 @@
+git /bitbucket-- version control system
+ansible/chef/puppet- configuration management
+docker-containerizartion
+maven- java build management
+jenkins
+cloudwatch/ nagious- monitoring
+docker swarm- within a vm
+kubernetes- multiple vm
